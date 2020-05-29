@@ -1,7 +1,5 @@
 # Hello World
 
-> An awesome project.
+## Algorithm
 
-## 算法
-
--[LeetCode](https://qwfand.github.io/Blogs/#/algorithm/leetcode/LeetCode目录)
+-[LeetCode](https://qwfand.github.io/Blogs/#/algorithm/leetcode/LeetCode??)
