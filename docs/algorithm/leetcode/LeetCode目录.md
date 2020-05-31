@@ -8,7 +8,7 @@
 
 - [64. Minimum Path Sum](https://qwfand.github.io/Blogs/#/algorithm/leetcode/dynamic%20programming/64.%20Minimum%20Path%20Sum)
 
--[72. Edit Distance](https://qwfand.github.io/Blogs/#/algorithm/leetcode/dynamic%20programming/72.%20Edit%20Distance)
+- [72. Edit Distance](https://qwfand.github.io/Blogs/#/algorithm/leetcode/dynamic%20programming/72.%20Edit%20Distance)
 
 - [91. Decode Ways](https://qwfand.github.io/Blogs/#/algorithm/leetcode/dynamic%20programming/91.%20Decode%20Ways)
 
