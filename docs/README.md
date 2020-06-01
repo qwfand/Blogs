@@ -2,5 +2,5 @@
 
 ## Algorithm
 
-- [LeetCode](https://qwfand.github.io/Blogs/#/algorithm/leetcode/LeetCode目录)
+- [LeetCode](https://qwfand.github.io/Blogs/#/algorithm/leetcode/LeetCode-contents)
 
