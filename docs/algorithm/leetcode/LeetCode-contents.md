@@ -22,6 +22,10 @@
 
 - [494. Target Sum](https://qwfand.github.io/Blogs/#/algorithm/leetcode/dynamic%20programming/494.%20Target%20Sum)
 
-- [746. Min Cost Clibing Stairs](https://qwfand.github.io/Blogs/#/algorithm/leetcode/dynamic%20programming/746.%20Min%Cost%20Clibing%20Stairs)
+- [746. Min Cost Climbing Stairs](https://qwfand.github.io/Blogs/#/algorithm/leetcode/dynamic%20programming/746.%20Min%Cost%20Climbing%20Stairs)
 
 - [1143. Longest Common Subsequence](https://qwfand.github.io/Blogs/#/algorithm/leetcode/dynamic%20programming/1143Longest%20Common%20Subsequence)
+
+## Two Pointers
+
+[Two Pointers Collection](https://qwfand.github.io/Blogs/#/algorithm/leetcode/two%20pointer/two%20pointer)
