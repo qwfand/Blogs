@@ -14,8 +14,6 @@
 
 - [639. Decode Ways II](https://qwfand.github.io/Blogs/#/algorithm/leetcode/dynamic%20programming/639.%20Decode%20Ways%20II)
 
-- [91. Decode Ways](https://qwfand.github.io/Blogs/#/algorithm/leetcode/dynamic%20programming/91.%20Decode%20Ways)
-
 - [120. Triangle](https://qwfand.github.io/Blogs/#/algorithm/leetcode/dynamic%20programming/120.%20Triangle)
 
 - [198. House Robber](https://qwfand.github.io/Blogs/#/algorithm/leetcode/dynamic%20programming/198.%20House%20Robber)
