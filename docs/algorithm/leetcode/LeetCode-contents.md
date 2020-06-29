@@ -26,6 +26,20 @@
 
 - [1143. Longest Common Subsequence](https://qwfand.github.io/Blogs/#/algorithm/leetcode/dynamic%20programming/1143Longest%20Common%20Subsequence)
 
+-[coin change](https://qwfand.github.io/Blogs/#/algorithm/leetcode/dynamic%20programming/coin%20change)
+
 ## Two Pointers
 
 [Two Pointers Collection](https://qwfand.github.io/Blogs/#/algorithm/leetcode/two%20pointer/two%20pointer)
+
+## Graph
+
+### Topological Sort
+
+- [210. Course Schedule II](https://qwfand.github.io/Blogs/#/algorithm/leetcode/graph/Topological%20Sort)
+
+## stack
+
+### 单调栈
+
+- [单调栈汇总](https://qwfand.github.io/Blogs/#/algorithm/leetcode/stack/monotonic%20stack)
