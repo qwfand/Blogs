@@ -26,7 +26,7 @@
 
 - [1143. Longest Common Subsequence](https://qwfand.github.io/Blogs/#/algorithm/leetcode/dynamic%20programming/1143Longest%20Common%20Subsequence)
 
--[coin change](https://qwfand.github.io/Blogs/#/algorithm/leetcode/dynamic%20programming/coin%20change)
+- [coin change](https://qwfand.github.io/Blogs/#/algorithm/leetcode/dynamic%20programming/coin%20change)
 
 ## Two Pointers
 
