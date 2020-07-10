@@ -187,4 +187,29 @@ class StockSpanner:
 # param_1 = obj.next(price)
 ```
 
+### [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+
+```python
+class Solution:
+    def trap(self, height: List[int]) -> int:
+        stack = []
+        res=0
+        for i in range(len(height)):
+            print(stack)
+            print(i)
+            while stack and height[i] > height[stack[-1]]:
+                top = stack.pop()
+                if not stack :
+                    break
+                dist = i - stack[-1] - 1
+                boundryHeight = min(height[i],height[stack[-1]]) - height[top]
+                #print(dist,boundryHeight)
+                res += boundryHeight*dist
+
+            stack.append(i)
+        return res
+```
+
+![img](https://qwfand.github.io/Blogs/#/algorithm/leetcode/stack/Trapping%20Raining%20Wate.jpg)
+
 [others](https://blog.csdn.net/qq_17550379/article/details/86519771?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase)
