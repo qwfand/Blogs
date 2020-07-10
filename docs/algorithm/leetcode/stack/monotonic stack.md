@@ -210,6 +210,6 @@ class Solution:
         return res
 ```
 
-![img](https://qwfand.github.io/Blogs/#/algorithm/leetcode/stack/Trapping%20Raining%20Wate.jpg)
+![img](https://raw.githubusercontent.com/qwfand/Blogs/master/docs/algorithm/leetcode/stack/Trapping%20Rain%20Water.jpg)
 
 [others](https://blog.csdn.net/qq_17550379/article/details/86519771?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase)
