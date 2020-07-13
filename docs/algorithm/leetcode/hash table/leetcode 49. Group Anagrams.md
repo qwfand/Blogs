@@ -22,7 +22,6 @@ The order of your output does not matter.
 
 ### Approach 1
 
-首先想到了，处理两个单词是否可以贵为一类，于是有了IS函数，根据Is函数写了两种方法，但是最后一个case都超时了；
 
 ```python
 class Solution:
