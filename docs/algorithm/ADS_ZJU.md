@@ -25,6 +25,14 @@ the number of black nodes is same，红色节点给予调整的余地
 
 #### B+ Tree
 
+M order B tree
+- The root is either a leaf or has between 2 and M children
+- All nonleaf nodes(except the root) hava between [M/2] and M children
+- All leaves are at the same depth
+
+- All data are stored at the leaves.
+- Contained in each interior node are pointers P1,P2,...,Pm to the children, and k1,k2,...,Km-1, representing the smallest key found in the subtrees P2,P3,...,Pm-1, respectively.
+
 节点不满足要求，则split
 
 #### Inverted File Index

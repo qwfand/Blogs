@@ -10,6 +10,8 @@
 
 ### BackTracking algorithm
 
+[BackTracking](https://qwfand.github.io/Blogs/#/algorithm/leetcode/backtracking/backtrack)
+
 ### 动态规划
 
 - [62. Unique Paths](https://qwfand.github.io/Blogs/#/algorithm/leetcode/dynamic%20programming/62.%20Unique%20Paths)

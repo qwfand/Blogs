@@ -124,3 +124,48 @@ class Solution:
         res=[lst[i][0] for i in range(k)]
         return res
 ```
+
+## search target
+
+### 240. Search a 2D Matrix II
+
+在一个每行每列都递增的矩阵中寻找一个数字
+
+二分搜索
+
+```python
+class Solution:
+    def searchMatrix(self, matrix, target):
+        #n^2log(n)
+        for row in range(len(matrix)):
+            lo, hi = 0, len(matrix[0])
+            while lo < hi:
+                mid = (lo + hi) // 2
+                #print(lo,hi,mid)
+                if matrix[row][mid] == target:
+                    return True
+                elif matrix[row][mid] > target:
+                    hi = mid
+                else:
+                    lo = mid + 1
+        return False
+```
+
+右上角到左下角搜索
+
+```python
+class Solution:
+    def searchMatrix(self, matrix, target):
+        if not matrix:
+            return False
+        row, col =0, len(matrix[0]) - 1
+        while row < len(matrix) and col >= 0:
+            if matrix[row][col] == target:
+                return True
+            elif matrix[row][col] > target:#不可能在该列上面
+                col -= 1
+            else:#matrix[row][col] < target 不可能在该行上面
+                row +=1
+        return False
+```
+        

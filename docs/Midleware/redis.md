@@ -232,6 +232,12 @@ Redis架构模式[lin](https://blog.csdn.net/outdata/article/details/105582327?u
 
 [jianshu](https://www.jianshu.com/p/6c970eb652d5)
 [toutia0](https://www.toutiao.com/i6654866029182714382/?tt_from=weixin&utm_campaign=client_share&wxshare_count=2&from=singlemessage&timestamp=1549503562&app=news_article&utm_source=weixin&isappinstalled=0&iid=59822650971&utm_medium=toutiao_ios&group_id=6654866029182714382&pbid=6624439581881370119)
+
+Redis 过期原理
+
+1. 定时器：设置key过期时间的同时，设置一个定时器
+2. lazydelete：过期不立即删除，当要使用的时候检查是否过期，若过期删除，返回null
+3. 定时删除：每隔一定时间删除一次过期的key
 os
 多线程与高并发
 JVM
