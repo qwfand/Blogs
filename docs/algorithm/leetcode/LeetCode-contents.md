@@ -57,6 +57,8 @@
 
 ## slide window
 
+- [53. Maximum SUbarray](https://qwfand.github.io/Blogs/#/algorithm/leetcode/sliding%20window/53.%20Maximum%20Subarray)
+
 - [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://qwfand.github.io/Blogs/#/algorithm/leetcode/sliding%20window/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit)
 
 ## binary search

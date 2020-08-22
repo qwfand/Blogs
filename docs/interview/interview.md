@@ -55,3 +55,7 @@ DNS解析的过程
 
 单调栈：
 [blog](https://blog.csdn.net/lucky52529/article/details/89155694)
+
+
+SQL执行优化
+left join 什么时候可以转变为 inner join
