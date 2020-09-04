@@ -1,4 +1,4 @@
-# Studying CS In One Month
+# qwfand-Blogs
 
 ## Algorithm
 
