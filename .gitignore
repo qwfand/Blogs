@@ -1,0 +1,13 @@
+.DS_Store
+*.txt
+!tencent13147342467085209222.txt
+desktop.ini
+.vscode
+*.exe
+Blogsing
+doc_darklight
+cpp formate
+*.jpg
+*.png
+os.py
+SEEYOU.md
